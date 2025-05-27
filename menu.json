@@ -1,0 +1,184 @@
+{
+    "menu": [
+        {
+            "Id": 1,
+            "Name": "물1",
+            "Price": 800,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 2,
+            "Name": "물2",
+            "Price": 800,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 3,
+            "Name": "2% 아쿠아 제로",
+            "Price": 2000,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 4,
+            "Name": "레몬 워터1",
+            "Price": 1800,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 5,
+            "Name": "레몬 워터2",
+            "Price": 1800,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 6,
+            "Name": "옥수수수염차1",
+            "Price": 1600,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 7,
+            "Name": "옥수수수염차2",
+            "Price": 1600,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 8,
+            "Name": "콘트라베이스",
+            "Price": 2200,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 9,
+            "Name": "트레비 레몬1",
+            "Price": 1800,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 10,
+            "Name": "트레비 레몬2",
+            "Price": 1800,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 11,
+            "Name": "콜라",
+            "Price": 1100,
+            "Manufacturer": "코카콜라"
+        },
+        {
+            "Id": 12,
+            "Name": "펩시",
+            "Price": 1100,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 13,
+            "Name": "펩시라임",
+            "Price": 1100,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 14,
+            "Name": "사이다",
+            "Price": 1300,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 15,
+            "Name": "제로 사이다",
+            "Price": 1300,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 16,
+            "Name": "환타",
+            "Price": 1500,
+            "Manufacturer": "코카콜라"
+        },
+        {
+            "Id": 17,
+            "Name": "망고",
+            "Price": 1200,
+            "Manufacturer": "델몬트"
+        },
+        {
+            "Id": 18,
+            "Name": "Lipton",
+            "Price": 1200,
+            "Manufacturer": "유니레버"
+        },
+        {
+            "Id": 19,
+            "Name": "사과 에이드",
+            "Price": 1100,
+            "Manufacturer": "델몬트"
+        },
+        {
+            "Id": 20,
+            "Name": "포도 에이드",
+            "Price": 1100,
+            "Manufacturer": "델몬트"
+        },
+        {
+            "Id": 21,
+            "Name": "가나초코",
+            "Price": 900,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 22,
+            "Name": "레쓰비1",
+            "Price": 900,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 23,
+            "Name": "레쓰비2",
+            "Price": 900,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 24,
+            "Name": "HOT6",
+            "Price": 1100,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 25,
+            "Name": "트로피카나",
+            "Price": 1500,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 26,
+            "Name": "게토레이",
+            "Price": 1500,
+            "Manufacturer": "펩시코"
+        },
+        {
+            "Id": 27,
+            "Name": "코코1",
+            "Price": 1000,
+            "Manufacturer": "해태 음료"
+        },
+        {
+            "Id": 28,
+            "Name": "코코2",
+            "Price": 1000,
+            "Manufacturer": "해태 음료"
+        },
+        {
+            "Id": 29,
+            "Name": "밀키스1",
+            "Price": 1200,
+            "Manufacturer": "롯데칠성음료"
+        },
+        {
+            "Id": 30,
+            "Name": "밀키스2",
+            "Price": 1200,
+            "Manufacturer": "롯데칠성음료"
+        }
+    ]
+}

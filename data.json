@@ -1,0 +1,918 @@
+{
+    "total_revenue": 990200,
+    "total_sales": 710,
+    "sales_by_item": {
+        "밀키스2": 3,
+        "밀키스": 150,
+        "사이다": 139,
+        "미닛메이드": 124,
+        "환타": 137,
+        "콜라": 150,
+        "코코2": 1,
+        "2% 아쿠아 제로": 4,
+        "물1": 1,
+        "가나초코": 1
+    },
+    "revenue_by_item": {
+        "밀키스2": 3600,
+        "밀키스": 180000,
+        "사이다": 180700,
+        "미닛메이드": 198400,
+        "환타": 191800,
+        "콜라": 225000,
+        "코코2": 1000,
+        "2% 아쿠아 제로": 8000,
+        "물1": 800,
+        "가나초코": 900
+    },
+    "sales_by_manufacturer": {
+        "롯데칠성음료": 160,
+        "삼성음료": 160,
+        "해태음료": 128,
+        "펩시": 125,
+        "코카콜라": 136,
+        "해태 음료": 1
+    },
+    "revenue_by_manufacturer": {
+        "롯데칠성음료": 222100,
+        "삼성음료": 225400,
+        "해태음료": 180300,
+        "펩시": 173800,
+        "코카콜라": 187600,
+        "해태 음료": 1000
+    },
+    "sales_by_payment_method": {
+        "card": 242,
+        "mobile": 225,
+        "cash": 239,
+        "contactless": 4
+    },
+    "sales_by_datetime": {
+        "2025-05-22": {
+            "sales": 212,
+            "revenue": 292600,
+            "hours": {
+                "20": {
+                    "sales": 105,
+                    "revenue": 144000
+                },
+                "21": {
+                    "sales": 5,
+                    "revenue": 6900
+                },
+                "07": {
+                    "sales": 10,
+                    "revenue": 13400
+                },
+                "03": {
+                    "sales": 5,
+                    "revenue": 7000
+                },
+                "00": {
+                    "sales": 6,
+                    "revenue": 8400
+                },
+                "17": {
+                    "sales": 3,
+                    "revenue": 4100
+                },
+                "02": {
+                    "sales": 5,
+                    "revenue": 6900
+                },
+                "19": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "12": {
+                    "sales": 6,
+                    "revenue": 8400
+                },
+                "10": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "05": {
+                    "sales": 7,
+                    "revenue": 10000
+                },
+                "09": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "06": {
+                    "sales": 7,
+                    "revenue": 8900
+                },
+                "13": {
+                    "sales": 6,
+                    "revenue": 7800
+                },
+                "22": {
+                    "sales": 10,
+                    "revenue": 15000
+                },
+                "01": {
+                    "sales": 4,
+                    "revenue": 5400
+                },
+                "08": {
+                    "sales": 6,
+                    "revenue": 8400
+                },
+                "11": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "18": {
+                    "sales": 2,
+                    "revenue": 2900
+                },
+                "23": {
+                    "sales": 6,
+                    "revenue": 8600
+                },
+                "04": {
+                    "sales": 2,
+                    "revenue": 2600
+                },
+                "15": {
+                    "sales": 3,
+                    "revenue": 4400
+                },
+                "14": {
+                    "sales": 2,
+                    "revenue": 2800
+                },
+                "16": {
+                    "sales": 2,
+                    "revenue": 2700
+                }
+            }
+        },
+        "2025-05-17": {
+            "sales": 39,
+            "revenue": 54500,
+            "hours": {
+                "12": {
+                    "sales": 2,
+                    "revenue": 2700
+                },
+                "09": {
+                    "sales": 2,
+                    "revenue": 2700
+                },
+                "16": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "20": {
+                    "sales": 4,
+                    "revenue": 5800
+                },
+                "00": {
+                    "sales": 1,
+                    "revenue": 1300
+                },
+                "17": {
+                    "sales": 3,
+                    "revenue": 4100
+                },
+                "07": {
+                    "sales": 3,
+                    "revenue": 3900
+                },
+                "18": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "04": {
+                    "sales": 2,
+                    "revenue": 2400
+                },
+                "19": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "21": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "03": {
+                    "sales": 3,
+                    "revenue": 4400
+                },
+                "14": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "01": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "22": {
+                    "sales": 1,
+                    "revenue": 1300
+                },
+                "05": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "15": {
+                    "sales": 4,
+                    "revenue": 5500
+                },
+                "11": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "08": {
+                    "sales": 2,
+                    "revenue": 2800
+                },
+                "13": {
+                    "sales": 1,
+                    "revenue": 1300
+                }
+            }
+        },
+        "2025-05-18": {
+            "sales": 81,
+            "revenue": 112200,
+            "hours": {
+                "11": {
+                    "sales": 3,
+                    "revenue": 4400
+                },
+                "04": {
+                    "sales": 4,
+                    "revenue": 5300
+                },
+                "14": {
+                    "sales": 6,
+                    "revenue": 8500
+                },
+                "09": {
+                    "sales": 2,
+                    "revenue": 2900
+                },
+                "06": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "07": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "05": {
+                    "sales": 7,
+                    "revenue": 9500
+                },
+                "16": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "00": {
+                    "sales": 2,
+                    "revenue": 2900
+                },
+                "17": {
+                    "sales": 5,
+                    "revenue": 7200
+                },
+                "12": {
+                    "sales": 6,
+                    "revenue": 8400
+                },
+                "15": {
+                    "sales": 5,
+                    "revenue": 6300
+                },
+                "01": {
+                    "sales": 5,
+                    "revenue": 7000
+                },
+                "13": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "03": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "23": {
+                    "sales": 2,
+                    "revenue": 2700
+                },
+                "08": {
+                    "sales": 4,
+                    "revenue": 5400
+                },
+                "19": {
+                    "sales": 2,
+                    "revenue": 2600
+                },
+                "20": {
+                    "sales": 5,
+                    "revenue": 6700
+                },
+                "21": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "02": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "10": {
+                    "sales": 4,
+                    "revenue": 5400
+                },
+                "18": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "22": {
+                    "sales": 1,
+                    "revenue": 1200
+                }
+            }
+        },
+        "2025-05-16": {
+            "sales": 30,
+            "revenue": 42800,
+            "hours": {
+                "02": {
+                    "sales": 3,
+                    "revenue": 4100
+                },
+                "20": {
+                    "sales": 1,
+                    "revenue": 1300
+                },
+                "21": {
+                    "sales": 2,
+                    "revenue": 2700
+                },
+                "00": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "03": {
+                    "sales": 2,
+                    "revenue": 2700
+                },
+                "07": {
+                    "sales": 1,
+                    "revenue": 1300
+                },
+                "10": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "04": {
+                    "sales": 3,
+                    "revenue": 4400
+                },
+                "15": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "14": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "16": {
+                    "sales": 3,
+                    "revenue": 4500
+                },
+                "09": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "06": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "08": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "23": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "19": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "12": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "18": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "11": {
+                    "sales": 1,
+                    "revenue": 1400
+                }
+            }
+        },
+        "2025-05-20": {
+            "sales": 91,
+            "revenue": 127100,
+            "hours": {
+                "18": {
+                    "sales": 8,
+                    "revenue": 10800
+                },
+                "13": {
+                    "sales": 2,
+                    "revenue": 2700
+                },
+                "19": {
+                    "sales": 4,
+                    "revenue": 5600
+                },
+                "08": {
+                    "sales": 4,
+                    "revenue": 5700
+                },
+                "05": {
+                    "sales": 5,
+                    "revenue": 7000
+                },
+                "09": {
+                    "sales": 5,
+                    "revenue": 6600
+                },
+                "16": {
+                    "sales": 5,
+                    "revenue": 6900
+                },
+                "01": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "06": {
+                    "sales": 3,
+                    "revenue": 4500
+                },
+                "15": {
+                    "sales": 5,
+                    "revenue": 7200
+                },
+                "07": {
+                    "sales": 4,
+                    "revenue": 5600
+                },
+                "14": {
+                    "sales": 3,
+                    "revenue": 4000
+                },
+                "00": {
+                    "sales": 4,
+                    "revenue": 5400
+                },
+                "21": {
+                    "sales": 4,
+                    "revenue": 5300
+                },
+                "10": {
+                    "sales": 4,
+                    "revenue": 5900
+                },
+                "03": {
+                    "sales": 3,
+                    "revenue": 4000
+                },
+                "17": {
+                    "sales": 5,
+                    "revenue": 6900
+                },
+                "02": {
+                    "sales": 3,
+                    "revenue": 4500
+                },
+                "23": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "12": {
+                    "sales": 4,
+                    "revenue": 5800
+                },
+                "11": {
+                    "sales": 5,
+                    "revenue": 6900
+                },
+                "20": {
+                    "sales": 5,
+                    "revenue": 7300
+                },
+                "22": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "04": {
+                    "sales": 1,
+                    "revenue": 1500
+                }
+            }
+        },
+        "2025-05-19": {
+            "sales": 78,
+            "revenue": 110600,
+            "hours": {
+                "14": {
+                    "sales": 9,
+                    "revenue": 12100
+                },
+                "16": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "20": {
+                    "sales": 6,
+                    "revenue": 8700
+                },
+                "07": {
+                    "sales": 4,
+                    "revenue": 5400
+                },
+                "05": {
+                    "sales": 4,
+                    "revenue": 6000
+                },
+                "00": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "11": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "15": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "23": {
+                    "sales": 5,
+                    "revenue": 7200
+                },
+                "12": {
+                    "sales": 3,
+                    "revenue": 3900
+                },
+                "09": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "08": {
+                    "sales": 5,
+                    "revenue": 7700
+                },
+                "03": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "17": {
+                    "sales": 3,
+                    "revenue": 4100
+                },
+                "06": {
+                    "sales": 6,
+                    "revenue": 8000
+                },
+                "18": {
+                    "sales": 4,
+                    "revenue": 5600
+                },
+                "19": {
+                    "sales": 7,
+                    "revenue": 10200
+                },
+                "21": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "22": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "04": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "02": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "10": {
+                    "sales": 1,
+                    "revenue": 1300
+                }
+            }
+        },
+        "2025-05-21": {
+            "sales": 77,
+            "revenue": 109200,
+            "hours": {
+                "08": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "04": {
+                    "sales": 6,
+                    "revenue": 8800
+                },
+                "10": {
+                    "sales": 4,
+                    "revenue": 5600
+                },
+                "06": {
+                    "sales": 4,
+                    "revenue": 6000
+                },
+                "22": {
+                    "sales": 4,
+                    "revenue": 5500
+                },
+                "07": {
+                    "sales": 6,
+                    "revenue": 8800
+                },
+                "18": {
+                    "sales": 3,
+                    "revenue": 3800
+                },
+                "19": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "01": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "12": {
+                    "sales": 2,
+                    "revenue": 2900
+                },
+                "17": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "05": {
+                    "sales": 5,
+                    "revenue": 7200
+                },
+                "15": {
+                    "sales": 4,
+                    "revenue": 5700
+                },
+                "23": {
+                    "sales": 5,
+                    "revenue": 6700
+                },
+                "09": {
+                    "sales": 2,
+                    "revenue": 2600
+                },
+                "02": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "00": {
+                    "sales": 3,
+                    "revenue": 4100
+                },
+                "03": {
+                    "sales": 3,
+                    "revenue": 4000
+                },
+                "16": {
+                    "sales": 2,
+                    "revenue": 2900
+                },
+                "14": {
+                    "sales": 3,
+                    "revenue": 4400
+                },
+                "20": {
+                    "sales": 5,
+                    "revenue": 6900
+                },
+                "11": {
+                    "sales": 2,
+                    "revenue": 3200
+                },
+                "21": {
+                    "sales": 1,
+                    "revenue": 1300
+                },
+                "13": {
+                    "sales": 1,
+                    "revenue": 1600
+                }
+            }
+        },
+        "2025-05-24": {
+            "sales": 46,
+            "revenue": 63500,
+            "hours": {
+                "21": {
+                    "sales": 3,
+                    "revenue": 4100
+                },
+                "20": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "11": {
+                    "sales": 3,
+                    "revenue": 4500
+                },
+                "03": {
+                    "sales": 1,
+                    "revenue": 1600
+                },
+                "05": {
+                    "sales": 3,
+                    "revenue": 3800
+                },
+                "00": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "23": {
+                    "sales": 3,
+                    "revenue": 4300
+                },
+                "04": {
+                    "sales": 2,
+                    "revenue": 3100
+                },
+                "16": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "17": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "10": {
+                    "sales": 2,
+                    "revenue": 2800
+                },
+                "09": {
+                    "sales": 3,
+                    "revenue": 4000
+                },
+                "07": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "02": {
+                    "sales": 4,
+                    "revenue": 5700
+                },
+                "18": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "15": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "22": {
+                    "sales": 2,
+                    "revenue": 2400
+                },
+                "13": {
+                    "sales": 4,
+                    "revenue": 5100
+                },
+                "06": {
+                    "sales": 2,
+                    "revenue": 2600
+                },
+                "01": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "19": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "08": {
+                    "sales": 1,
+                    "revenue": 1300
+                },
+                "14": {
+                    "sales": 1,
+                    "revenue": 1400
+                }
+            }
+        },
+        "2025-05-23": {
+            "sales": 56,
+            "revenue": 77700,
+            "hours": {
+                "06": {
+                    "sales": 3,
+                    "revenue": 3700
+                },
+                "01": {
+                    "sales": 3,
+                    "revenue": 4500
+                },
+                "15": {
+                    "sales": 3,
+                    "revenue": 4000
+                },
+                "17": {
+                    "sales": 5,
+                    "revenue": 7000
+                },
+                "16": {
+                    "sales": 2,
+                    "revenue": 2500
+                },
+                "12": {
+                    "sales": 6,
+                    "revenue": 8800
+                },
+                "02": {
+                    "sales": 4,
+                    "revenue": 5400
+                },
+                "00": {
+                    "sales": 3,
+                    "revenue": 4500
+                },
+                "05": {
+                    "sales": 1,
+                    "revenue": 1200
+                },
+                "18": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "22": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "10": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "09": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "08": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "21": {
+                    "sales": 2,
+                    "revenue": 2800
+                },
+                "20": {
+                    "sales": 2,
+                    "revenue": 2800
+                },
+                "23": {
+                    "sales": 2,
+                    "revenue": 3000
+                },
+                "11": {
+                    "sales": 4,
+                    "revenue": 4900
+                },
+                "03": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "13": {
+                    "sales": 1,
+                    "revenue": 1500
+                },
+                "14": {
+                    "sales": 3,
+                    "revenue": 4200
+                },
+                "07": {
+                    "sales": 1,
+                    "revenue": 1400
+                },
+                "19": {
+                    "sales": 1,
+                    "revenue": 1300
+                }
+            }
+        }
+    }
+}
